@@ -1,0 +1,7 @@
+.review-product {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    padding-bottom: 5px;
+    justify-content: space-between;
+}
